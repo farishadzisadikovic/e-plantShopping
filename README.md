@@ -2,9 +2,9 @@
 
 E-Plant Shopping is an e-commerce web application for browsing and purchasing plants online.
 
-![Homepage](https://github.com/user-attachments/assets/77c20667-9f95-4187-8fd7-c0b70ccfce16)
+![Screenshot 2025-06-04 at 4 18 14 PM](https://github.com/user-attachments/assets/18758f8a-be7d-4421-8b4d-a751ce5c63aa)
 
-![plants](https://github.com/user-attachments/assets/39217751-4c62-4b22-8305-51b9f49325e9)
+![Screenshot 2025-06-04 at 4 18 31 PM](https://github.com/user-attachments/assets/5ecca228-ff1c-4b58-9051-124c9c184784)
 
 ## Demo
 
